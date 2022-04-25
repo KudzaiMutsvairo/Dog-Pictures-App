@@ -18,6 +18,26 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/kudzai/mutswairo/dogpics/api/DogsResponse.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/kudzai/mutswairo/dogpics/api/RetrofitService.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/kudzai/mutswairo/dogpics/di/RetrofitModule.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/kudzai/mutswairo/dogpics/di/RetrofitServiceInterface.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/app/src/main/java/com/kudzai/mutswairo/dogpics/ui/activity/MainActivity.kt">
           <value>
             <set />
