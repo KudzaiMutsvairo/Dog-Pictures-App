@@ -3,6 +3,11 @@
   <component name="issues">
     <option name="index">
       <map>
+        <entry key="/Dummy.txt">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/app/build.gradle">
           <value>
             <set />
@@ -14,6 +19,36 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/app/src/main/java/com/kudzai/mutswairo/dogpics/DPApplication.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/kudzai/mutswairo/dogpics/api/DogsResponse.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/kudzai/mutswairo/dogpics/api/RetrofitService.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/kudzai/mutswairo/dogpics/di/ApplicationComponent.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/kudzai/mutswairo/dogpics/di/RetrofitComponent.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/kudzai/mutswairo/dogpics/di/RetrofitModule.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/kudzai/mutswairo/dogpics/di/RetrofitServiceInterface.kt">
           <value>
             <set />
           </value>
@@ -39,6 +74,51 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/app/src/main/res/layout/item_image.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/values-night/themes.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/values/themes.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/Xentric/Assignments/Saltpay/android-developer-challenge-nuwqkw/app/src/main/res/layout/fragment_favorites.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/Xentric/Assignments/Saltpay/android-developer-challenge-nuwqkw/app/src/main/res/layout/fragment_home.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/Xentric/Assignments/Saltpay/android-developer-challenge-nuwqkw/app/src/main/res/layout/fragment_view_album.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/Xentric/Assignments/Saltpay/android-developer-challenge-nuwqkw/app/src/main/res/layout/item_album.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/Xentric/Assignments/Saltpay/android-developer-challenge-nuwqkw/app/src/main/res/values-hdpi/integers.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/Xentric/Assignments/Saltpay/android-developer-challenge-nuwqkw/app/src/main/res/values/colors.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/Xentric/Assignments/Saltpay/android-developer-challenge-nuwqkw/app/src/main/res/values/themes.xml">
           <value>
             <set />
           </value>
