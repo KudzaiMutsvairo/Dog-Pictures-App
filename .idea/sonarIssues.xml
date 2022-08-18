@@ -33,6 +33,16 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/kudzai/mutswairo/dogpics/di/ApplicationComponent.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/kudzai/mutswairo/dogpics/di/RetrofitComponent.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/app/src/main/java/com/kudzai/mutswairo/dogpics/di/RetrofitModule.kt">
           <value>
             <set />
@@ -74,6 +84,41 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/app/src/main/res/values/themes.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/Xentric/Assignments/Saltpay/android-developer-challenge-nuwqkw/app/src/main/res/layout/fragment_favorites.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/Xentric/Assignments/Saltpay/android-developer-challenge-nuwqkw/app/src/main/res/layout/fragment_home.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/Xentric/Assignments/Saltpay/android-developer-challenge-nuwqkw/app/src/main/res/layout/fragment_view_album.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/Xentric/Assignments/Saltpay/android-developer-challenge-nuwqkw/app/src/main/res/layout/item_album.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/Xentric/Assignments/Saltpay/android-developer-challenge-nuwqkw/app/src/main/res/values-hdpi/integers.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/Xentric/Assignments/Saltpay/android-developer-challenge-nuwqkw/app/src/main/res/values/colors.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/Xentric/Assignments/Saltpay/android-developer-challenge-nuwqkw/app/src/main/res/values/themes.xml">
           <value>
             <set />
           </value>
